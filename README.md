@@ -21,4 +21,4 @@ python project_name.py
 
 Want to add more beginner-friendly projects? Feel free to fork the repo, create a new branch, and submit a pull request!
 
- If you found this helpful, give it a star ⭐
+If you found this helpful, give it a star ⭐
