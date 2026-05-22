@@ -142,9 +142,3 @@ If this repo helped you learn Python, give it a **star** — it helps others fin
 
 **Chakinala Harshith Patel**
 GitHub: [@Harshith0906](https://github.com/Harshith0906)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
